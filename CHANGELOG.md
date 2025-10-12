@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/casbin/casbin.js/compare/v1.0.0...v1.1.0) (2025-10-12)
+
+
+### Features
+
+* improve README text ([50d9ea5](https://github.com/casbin/casbin.js/commit/50d9ea59d05a083305be1db74fb906c7abf9dd14))
+
 # [1.0.0](https://github.com/casbin/casbin.js/compare/v0.5.1...v1.0.0) (2025-10-12)
 
 
